@@ -1,0 +1,22 @@
+const errors = {
+  400: "Bad request",
+  9992: "Post is not exist",
+  9993: "Code verify is incorrect",
+  9994: "No Data or end of list data",
+  9995: "User is not validate",
+  9996: "User Existed",
+  9997: "Method is invalid",
+  9998: "Token is invalid",
+  9999: "Exception error",
+  1001: "Can not connect to DB",
+  1002: "Parameter is not enough",
+  1003: "Parameter type is invalid",
+  1004: "Parameter value is invalid",
+  1005: "Unknown error",
+  1006: "File size is too big",
+  1007: "Upload file failed!",
+  1008: "Maximun number of images",
+  1009: "Not access",
+  1010: "Action has been done previously by this user",
+}
+export default errors
