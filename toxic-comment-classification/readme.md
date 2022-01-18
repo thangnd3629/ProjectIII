@@ -2,7 +2,9 @@
 
 ## Prepare data
 Get data from : https://drive.google.com/drive/u/1/folders/1lqoD3urmmu9OCiaPazZflHXV79PYoPFB
-
+- The folder include 
+  - test.csv
+  - train.csv
 ## Train model
 - Change drivePath to your data folder destination
 
